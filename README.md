@@ -9,7 +9,7 @@
   * there were 369,711 total votes.
   * The break down by County votes was: 
   
-  ![](images/County.png)
+    ![](images/County.png)
   
   
   * 
