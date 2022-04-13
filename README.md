@@ -7,6 +7,6 @@ Model 3 Python
 
 ## Election-Audit Results
   * there were 369,711 total votes.
-  * The break down by County votes was: 
+  * The break down by County votes was: [link]()
 
 ## Election-Audit Summary
