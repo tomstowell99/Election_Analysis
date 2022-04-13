@@ -1,5 +1,5 @@
 # Election_Analysis
-Model 3 Python
+
 
 ## Overview of Election Audit
   The Election audit committee has requested that we analyze the elections results. Specifically they are looking for additional information regarding
