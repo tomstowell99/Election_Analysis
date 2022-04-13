@@ -8,7 +8,7 @@
 ## Election-Audit Results
   * there were 369,711 total votes.
   * The break down by County votes was: 
-        ![](images/github-county)
+        ![](images/github-county.png)
   * 
 
 ## Election-Audit Summary
