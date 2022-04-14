@@ -22,7 +22,7 @@
 
       ![](images/winner.png)
       
-  * The full election summary report can be found here: [https://github.com/tomstowell99/Election_Analysis/blob/main/election_analysis.txt]()
+  * The full election summary report can be found here: [report](https://github.com/tomstowell99/Election_Analysis/blob/main/election_analysis.txt)
   
 
 ## Election-Audit Summary
