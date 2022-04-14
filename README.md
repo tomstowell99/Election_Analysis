@@ -17,5 +17,9 @@
   * Below is the breakdown by candidate of votes and thier percentage recieved.
 
      ![](images/Candidate.png)
+     
+  * The winner of the election, their vote total and percentage is below:
+
+      ![](images/winner.png)
 
 ## Election-Audit Summary
