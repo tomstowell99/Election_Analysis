@@ -28,6 +28,7 @@
 ## Election-Audit Summary
 
 The work that has been done here. Can be used to analyse other election results with minimul additional effort.
+the full code can be found here [code](https://github.com/tomstowell99/Election_Analysis/blob/main/PyPoll_Challenge.py)
 
  * Option one: We can update the code to import a new csv file from another election.
  * 
