@@ -26,3 +26,25 @@
   
 
 ## Election-Audit Summary
+
+The work that has been done here. Can be used to analyse other election results with minimul additional effort.
+
+ * Option one: We can update the code to import a new csv file from another election.
+ * 
+    the current code is - file_to_load = os.path.join('C:/DataBootcamp/Class Folder/Week 3 Election Analysis/Resources/election_results.csv')
+    We would only  need to change our file_to_load variable to point to the new file. With this change we could load the new election data into our program.
+    We are making the assumption that our files would have the same format and column data.
+    
+ * Option two: We have set this code up to evaluate the results by county. We could easily update our code to look at city elections where precincts would be a
+   relevant summary function. Making the assumptions that in the csv file where county data is now located. There is now precinct data. we would:
+   
+    * update all references to county with precinct.
+         # 3: Extract the county name from each row.
+        ~county_name~ = row[1] 
+         precinct
+        
+        
+        
+        
+   
+   
