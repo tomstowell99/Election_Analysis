@@ -12,6 +12,10 @@
     ![](images/County.png)
   
   
-  * 
+  * Denver had the largest voter turnout
+
+  * Below is the breakdown by candidate of votes and thier percentage recieved.
+
+  ![](images/candidate.png)
 
 ## Election-Audit Summary
