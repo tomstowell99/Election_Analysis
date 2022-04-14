@@ -40,8 +40,17 @@ The work that has been done here. Can be used to analyse other election results 
    
     * update all references to county with precinct.
     
-         Extract the ~county~ precinct name from each row.
-        ~county_name~precinct = row[1] 
+         3 Extract the ~county~ precinct name from each row.
+        ~county_name~ precinct = row[1] 
+        
+         4b Add the existing ~county~ precicnt to the list of counties.
+            ~county~precinct_options.append(county_name)
+
+            4c Begin tracking the ~county's~ precinct vote count.
+            ~county~ precicnt_votes[county_name] = 0
+
+         5 Add a vote to that ~county's~ precicnt vote count.
+        ~county~ precicnt_votes[county_name] += 1
          
         
         
