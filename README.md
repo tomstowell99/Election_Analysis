@@ -43,17 +43,24 @@ The work that has been done here. Can be used to analyse other election results 
          3 Extract the ~county~ precinct name from each row.
          ~county_name~ precinct = row[1] 
         
-         4b Add the existing ~county~ precicnt to the list of counties.
+         4b Add the existing ~county~ precinct to the list of counties.
             ~county~precinct_options.append(county_name)
 
          4c Begin tracking the ~county's~ precinct vote count.
-         ~county~ precicnt_votes[county_name] = 0
+         ~county~ precinct_votes[county_name] = 0
 
-         5 Add a vote to that ~county's~ precicnt vote count.
-         ~county~ precicnt_votes[county_name] += 1
+         5 Add a vote to that ~county's~ precinct vote count.
+         ~county~ precinct_votes[county_name] += 1
          
         
+         Partial code to show changes need for updating of print routines
+         
+         6 Print the ~county~ precinct results to the terminal
+        ~county~_result=(
+            f"{~county~ precinct}: {~county~ precinct_percent:.1f}% ({vote:,})")
         
+        print(total_votes)
+        print(~county~ precinct_result)
         
         
    
