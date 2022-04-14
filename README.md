@@ -40,9 +40,9 @@ The work that has been done here. Can be used to analyse other election results 
    
     * update all references to county with precinct.
     
-          3: Extract the county name from each row.
-        ~county_name~ = row[1] 
-         precinct
+         Extract the ~county~ precinct name from each row.
+        ~county_name~precinct = row[1] 
+         
         
         
         
