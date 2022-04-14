@@ -39,9 +39,9 @@ The work that has been done here. Can be used to analyse other election results 
    relevant summary function. Making the assumptions that in the csv file where county data is now located. There is now precinct data. we would:
    
     * update all references to county with precinct.
+    
           3: Extract the county name from each row.
         ~county_name~ = row[1] 
-        
          precinct
         
         
