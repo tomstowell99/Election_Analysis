@@ -31,7 +31,9 @@ The work that has been done here. Can be used to analyse other election results 
 
  * Option one: We can update the code to import a new csv file from another election.
  * 
-    the current code is - file_to_load = os.path.join('C:/DataBootcamp/Class Folder/Week 3 Election Analysis/Resources/election_results.csv')
+    the current code is:
+    - file_to_load = os.path.join('C:/DataBootcamp/Class Folder/Week 3 Election Analysis/Resources/election_results.csv')
+    
     We would only  need to change our file_to_load variable to point to the new file. With this change we could load the new election data into our program.
     We are making the assumption that our files would have the same format and column data.
     
@@ -44,7 +46,7 @@ The work that has been done here. Can be used to analyse other election results 
          ~county_name~ precinct = row[1] 
         
          4b Add the existing ~county~ precinct to the list of counties.
-            ~county~precinct_options.append(county_name)
+            ~county~precinct_options.append(~county~ precinct_name)
 
          4c Begin tracking the ~county's~ precinct vote count.
          ~county~ precinct_votes[county_name] = 0
